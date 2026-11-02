@@ -8,7 +8,7 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
-    - file: investor-questions.md
+    - file: intro/investor-questions.md
 site:
   template: book-theme
   options:

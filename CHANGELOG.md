@@ -12,5 +12,6 @@
 
 ### 新增
 
+- `investor-questions.md` 移入 `intro/`，README、index 与 `myst.yml` 路径同步
 - 仓库初始化：README、index、myst 配置与许可
 - `investor-questions.md`：怎么根据问题判断投资人的水平与偏好——水平看他打不打得中承重柱（当场记「打在哪」），偏好看他答完后往哪钻（隔天回看「他往哪钻」），两条纪律：水平高不等于合适、看模式不下结论
