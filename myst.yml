@@ -1,0 +1,15 @@
+version: 1
+project:
+  title: 量潮投资者关系教程
+  description: 量潮投资者关系教程 - 投资者关系的实操教程
+  keywords: [量潮, 投资者关系, 教程]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+    - file: investor-questions.md
+site:
+  template: book-theme
+  options:
+    folders: true
